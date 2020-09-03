@@ -1,5 +1,5 @@
 # Apkmod v2.2
-### Author : Lokesh @EvilDevil
+### Author : WaSim Akram  @EvilDevil
 
 ## _Steps For Installation_
 1. First goto home directory `cd $HOME`
